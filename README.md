@@ -24,3 +24,5 @@ PUT /chicken/:id
 
 GET /chicken/run/:id
   - increments by 1 the steps variable of the chicken received in the id (in the database).
+
+Added a relation to the chicken object to the object farm, this object can "contain" multiple chicken objects inside.
