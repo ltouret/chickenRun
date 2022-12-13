@@ -1,6 +1,8 @@
 # chickenRun
 Chicken Run - Clac des Doigts
 
+To launch the project be sure to have installed docker (and docker-compose) and use the command: docker-compose up --build
+
 For this Api I used the Nestjs framework, its a framework based on expressjs that gives even more functionalities. I used as database postgresql with typeorm as orm.
 
 Routes of the API
